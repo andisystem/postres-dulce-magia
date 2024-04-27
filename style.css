@@ -69,6 +69,13 @@ body{
 .main{
 
 }
+
+.items{
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
 .items a{
     display: flex;
     align-items: center;
